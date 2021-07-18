@@ -15,7 +15,7 @@ RST|GPIO-OUT-RST|GPIO speed should be low
 DB7/DOUTA|STM32-HSPI-MISO
 DB8/DOUTB|Float|Not support dual line mode now
 Other data pins|Float|Not support parallel mode now
-OS[2:0]|GND|We recommend use jumper to set the over sampling pins to reduce GPIO consumption
+OS[2:0]|GND|We recommend using jumpers to set the over-sampling pins to reduce GPIO consumption
 
 Implementation:
 
