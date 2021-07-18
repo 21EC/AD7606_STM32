@@ -8,8 +8,8 @@ AD7606|Connection|Comment
 ---|---|---
 SCK|STM32-HSPI_SCK|16Bits, MSB First, Baud Rate <= 20MBits/s, CPOL = High, CPHA = 2 Edge
 CS|STM32-HSPI-NSS|Hardware NSS output signal
-CONVST-A|GPIO-OUT-CONVST-A|could be tied with CONVST-B
-CONVST-B|GPIO-OUT-CONVST-B|could be tied with CONVST-A
+CONVST-A|GPIO-OUT-CONVST-A|Could be tied with CONVST-B
+CONVST-B|GPIO-OUT-CONVST-B|Could be tied with CONVST-A
 BUSY|GPIO-IN-BUSY|
 RST|GPIO-OUT-RST|GPIO speed should be low
 DB7/DOUTA|STM32-HSPI-MISO|
